@@ -1,0 +1,11 @@
+.interests {
+    text-align: left;
+    margin-top: 0px;
+}
+
+.interests > p {
+    margin-top: -15px;
+    font-size: 10.7px;
+    line-height: 150%;
+    color: #DCDCDC;
+}

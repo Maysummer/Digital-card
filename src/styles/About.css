@@ -1,0 +1,11 @@
+.about {
+    text-align: left;
+    margin-top: 33px;
+}
+
+.about > p {
+    margin-top: -15px;
+    font-size: 10.7px;
+    line-height: 150%;
+    color: #DCDCDC;
+}
