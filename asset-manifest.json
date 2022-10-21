@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Digital-card/static/css/main.09adac80.css",
-    "main.js": "/Digital-card/static/js/main.b8eb6185.js",
+    "main.css": "/Digital-card/static/css/main.7e63d0ba.css",
+    "main.js": "/Digital-card/static/js/main.57de55c5.js",
     "static/js/787.74c7cad9.chunk.js": "/Digital-card/static/js/787.74c7cad9.chunk.js",
     "static/media/photo_card.jpeg": "/Digital-card/static/media/photo_card.7f2e1ab6faf67f6fbc09.jpeg",
-    "static/media/Instagram Icon.svg": "/Digital-card/static/media/Instagram Icon.7d8ad7f9b33a773c27398cacfc5a97a3.svg",
-    "static/media/GitHub Icon.svg": "/Digital-card/static/media/GitHub Icon.23d6dfa78140e8017f08351385915806.svg",
-    "static/media/Twitter Icon.svg": "/Digital-card/static/media/Twitter Icon.3f40423293e1813898c7e26f729a0705.svg",
+    "static/media/Instagram Icon.svg": "/Digital-card/static/media/Instagram Icon.c2916214877b68106481508eaba0e9d9.svg",
+    "static/media/GitHub Icon.svg": "/Digital-card/static/media/GitHub Icon.45dd1bad787a953fa333b5c76b751aae.svg",
+    "static/media/Twitter Icon.svg": "/Digital-card/static/media/Twitter Icon.d4f2bf6d8671dff888830735da01b95c.svg",
     "index.html": "/Digital-card/index.html",
-    "static/media/linkedin.svg": "/Digital-card/static/media/linkedin.428e955672b18cdce36ebda64db7eedc.svg",
-    "static/media/Facebook Icon.svg": "/Digital-card/static/media/Facebook Icon.00c353d38f22d18d3ff0962f9ce66f43.svg",
-    "static/media/Mail.svg": "/Digital-card/static/media/Mail.341d1e767b26e2540702fb63676d4501.svg",
-    "main.09adac80.css.map": "/Digital-card/static/css/main.09adac80.css.map",
-    "main.b8eb6185.js.map": "/Digital-card/static/js/main.b8eb6185.js.map",
+    "static/media/linkedin.svg": "/Digital-card/static/media/linkedin.84e13bee3b14fa4890bc0d0111641623.svg",
+    "static/media/Facebook Icon.svg": "/Digital-card/static/media/Facebook Icon.2ab2e23893dc0656d11fbd5244228586.svg",
+    "static/media/Mail.svg": "/Digital-card/static/media/Mail.7b5d28866f38479a372d6995afcedb14.svg",
+    "main.7e63d0ba.css.map": "/Digital-card/static/css/main.7e63d0ba.css.map",
+    "main.57de55c5.js.map": "/Digital-card/static/js/main.57de55c5.js.map",
     "787.74c7cad9.chunk.js.map": "/Digital-card/static/js/787.74c7cad9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.09adac80.css",
-    "static/js/main.b8eb6185.js"
+    "static/css/main.7e63d0ba.css",
+    "static/js/main.57de55c5.js"
   ]
 }
