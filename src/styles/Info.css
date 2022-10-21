@@ -45,12 +45,8 @@
     background: #5093E2;
 }
 
-a.linkedin:link {
-    color: #FFFFFF ;
-}
-
-a.linkedin:visited {
-    color: #FFFFFF ;
+a:link {
+    color: #FFFFFF;
 }
 
 a:link {
